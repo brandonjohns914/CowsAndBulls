@@ -11,6 +11,7 @@
 		419EC5DB2B44E21C000CC43A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 419EC5DA2B44E21C000CC43A /* ContentView.swift */; };
 		419EC5DD2B44E21E000CC43A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 419EC5DC2B44E21E000CC43A /* Assets.xcassets */; };
 		419EC5E02B44E21E000CC43A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 419EC5DF2B44E21E000CC43A /* Preview Assets.xcassets */; };
+		419EC5E82B463522000CC43A /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 419EC5E72B463522000CC43A /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		419EC5DC2B44E21E000CC43A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		419EC5DF2B44E21E000CC43A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		419EC5E12B44E21E000CC43A /* CowsAndBulls.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CowsAndBulls.entitlements; sourceTree = "<group>"; };
+		419EC5E72B463522000CC43A /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				419EC5D82B44E21C000CC43A /* CowsAndBullsApp.swift */,
 				419EC5DA2B44E21C000CC43A /* ContentView.swift */,
+				419EC5E72B463522000CC43A /* SettingsView.swift */,
 				419EC5DC2B44E21E000CC43A /* Assets.xcassets */,
 				419EC5E12B44E21E000CC43A /* CowsAndBulls.entitlements */,
 				419EC5DE2B44E21E000CC43A /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				419EC5E82B463522000CC43A /* SettingsView.swift in Sources */,
 				419EC5DB2B44E21C000CC43A /* ContentView.swift in Sources */,
 				419EC5D92B44E21C000CC43A /* CowsAndBullsApp.swift in Sources */,
 			);
